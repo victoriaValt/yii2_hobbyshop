@@ -231,3 +231,9 @@ vendor/bin/codecept run functional,unit --coverage --coverage-html --coverage-xm
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+
+![image](https://github.com/victoriaValt/yii2_hobbyshop/assets/108477893/7c442785-9506-4d47-a3f1-c13d92f23eb0)
+
+![image](https://github.com/victoriaValt/yii2_hobbyshop/assets/108477893/c6c5f0de-8500-4773-bc06-55d622b16ac4)
+
+
