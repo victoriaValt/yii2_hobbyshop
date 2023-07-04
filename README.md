@@ -1,10 +1,8 @@
-Link on "HobbyShop" : http://f0827999.xsph.ru/
-
 <p align="center">
-    <h1 align="center">Yii 2 HobbyShop</h1>
     <a href="http://f0827999.xsph.ru/" target="_blank">
-        <img src="http://f0827999.xsph.ru/web/img/logo.png" height="100px">
+        <img align="center" src="http://f0827999.xsph.ru/web/img/logo.png" height="100px">
     </a>
+    <h1 align="center">Yii 2 HobbyShop</h1>
     <br>
 </p>
 
