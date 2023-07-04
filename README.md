@@ -236,4 +236,10 @@ You can see code coverage output under the `tests/_output` directory.
 
 ![image](https://github.com/victoriaValt/yii2_hobbyshop/assets/108477893/c6c5f0de-8500-4773-bc06-55d622b16ac4)
 
+![image](https://github.com/victoriaValt/yii2_hobbyshop/assets/108477893/97d643f1-60ed-4593-b040-92ea3df36609)
+
+![image](https://github.com/victoriaValt/yii2_hobbyshop/assets/108477893/6520f146-0b11-4d80-8b3b-657e703d5654)
+
+
+
 
